@@ -1,13 +1,12 @@
+/* App.css */
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
     background-color: #363c44;
-    overflow-x: hidden;
 }
-
-.hero-header {}
 
 .App {
     /* text-align: center; */
@@ -16,9 +15,7 @@ body {
 .App-header {
     display: flex;
     align-items: center;
-    /* Align items vertically */
     justify-content: space-between;
-    /* Distribute items along the main axis */
     background-color: #1c232d;
     color: #00afb6;
     padding: 9px;
@@ -32,11 +29,8 @@ body {
 .App-header img {
     height: 40px;
     width: 40px;
-    border-radius: 100%;
-    zoom: 0%;
+    border-radius: 50%;
     padding: 10px;
-
-
 }
 
 .App-header section {
@@ -49,7 +43,6 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-
 }
 
 button {
@@ -58,7 +51,6 @@ button {
     color: #333;
     cursor: pointer;
     font-size: 16px;
-
 }
 
 button:hover {
@@ -66,7 +58,7 @@ button:hover {
 }
 
 section {
-    padding: 40px;
+    /* padding: 20px;  */
 }
 
 h2 {
@@ -74,7 +66,7 @@ h2 {
 }
 
 .project {
-    margin-bottom: 40px;
+    margin-bottom: 20px; /* Adjust margin for smaller screens */
 }
 
 img {
@@ -83,21 +75,56 @@ img {
 }
 
 form {
-    margin-top: 40px;
+    margin-top: 20px; /* Adjust margin for smaller screens */
 }
 
 input,
 textarea,
 button {
-    /* margin-bottom: 20px; */
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
+    margin-bottom: 10px; /* Adjust margin for smaller screens */
 }
 
 button {
-    /* background-color: #333; */
     color: #00afb6;
 }
 
-/* Add media queries for responsiveness if needed */
+/* Media queries for responsiveness */
+
+@media screen and (max-width: 768px) {
+    .App-header {
+        flex-direction: column;
+        align-items: center;
+        background: rgb(2,0,36);
+        background: linear-gradient(24deg, rgba(2,0,36,1) 0%, rgba(28,35,45,1) 35%, rgba(0,212,255,1) 100%);
+    }
+
+    .App-header img {
+        margin-bottom: 10px;
+        /* display: none; */
+        display: flex;
+        align-items: center;
+    }
+    
+    .App-header section {
+        color: blanchedalmond;
+        margin-left: 0;
+        margin-top: 10px;
+        
+    }
+    .hero-header p{
+        display: flex;
+        justify-content: center;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+    
+    button {
+        color: blanchedalmond;
+        margin-bottom: 10px;
+    }
+}

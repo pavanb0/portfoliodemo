@@ -1,0 +1,19 @@
+.custom-card {
+    background-color: #1c232d;
+    /* border-radius: 10px; */
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 175, 182,50);
+}
+
+.card-content {
+    text-align: left;
+}
+
+.custom-card h2 {
+    color:bisque;
+}
+
+.custom-card p {
+    color:bisque;
+}

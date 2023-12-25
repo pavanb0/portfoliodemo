@@ -1,0 +1,36 @@
+.custom-card {
+    background-color: #1c232d;
+    /* border-radius: 10px; */
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 175, 182,50);
+}
+
+.card-content {
+    text-align: left;
+}
+
+.custom-card h2 {
+    color:bisque;
+}
+
+.custom-card p {
+    color:bisque;
+}
+
+  
+
+  .education-item {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+  }
+  
+  .education-item h3 {
+    color: bisque;
+    margin-bottom: 5px;
+  }
+  
+  .education-item p {
+    color: bisque;
+    margin: 0;
+  }

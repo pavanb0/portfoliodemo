@@ -1,0 +1,75 @@
+/* styles.css */
+
+.Project-Heading {
+    color: bisque;
+    margin-left: 10px;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .app {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .card-Headers {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 245px;
+    z-index: 2;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: bisque;
+  }
+  
+  .project-list {
+    text-align: center;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  
+  .project-box {
+    display: inline-block;
+    width: 250px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 250px;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(24deg, rgba(2, 0, 36, 1) 0%, rgba(28, 35, 45, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    position: relative;
+  }
+  
+  .project-box img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .project-box h3 {
+    margin-top: 10px;
+    font-size: 1.2em;
+  }
+  
+  .project-box a {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .project-box a:hover {
+    text-decoration: underline;
+  }
+  
