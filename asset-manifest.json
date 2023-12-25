@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.542a29b5.css",
+    "main.js": "/static/js/main.bc7685eb.js",
+    "static/js/787.aa4c458c.chunk.js": "/static/js/787.aa4c458c.chunk.js",
+    "static/media/Hero.jpg": "/static/media/Hero.739f61b694a37dd49c53.jpg",
+    "static/media/GoodMorning.jpg": "/static/media/GoodMorning.6fbbf0a9131be7de0696.jpg",
+    "static/media/DwPlayer.jpg": "/static/media/DwPlayer.7cd2c9d43ab29702af9f.jpg",
+    "static/media/AndroidDevTool.jpg": "/static/media/AndroidDevTool.283db3ed9528babfa5a6.jpg",
+    "static/media/QrAttendance.jpg": "/static/media/QrAttendance.b818dce5a900b9474a93.jpg",
+    "static/media/Github  logo.jpg": "/static/media/Github  logo.976101b510cc211e88ca.jpg",
+    "static/media/OnlinePythonCompiler.jpg": "/static/media/OnlinePythonCompiler.7be4124da1267dff207d.jpg",
+    "static/media/MetafortessLogo.jpg": "/static/media/MetafortessLogo.76e7de168f0136cefbda.jpg",
+    "index.html": "/index.html",
+    "main.542a29b5.css.map": "/static/css/main.542a29b5.css.map",
+    "main.bc7685eb.js.map": "/static/js/main.bc7685eb.js.map",
+    "787.aa4c458c.chunk.js.map": "/static/js/787.aa4c458c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.542a29b5.css",
+    "static/js/main.bc7685eb.js"
+  ]
+}
