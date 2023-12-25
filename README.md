@@ -1,4 +1,4 @@
-A smooth and responsive portfolio website for software developer Build wit react js
+A smooth and responsive portfolio website for software developers Build wit React js
 <br>
 features
 
