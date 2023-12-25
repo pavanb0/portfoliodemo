@@ -1,6 +1,16 @@
-A smooth and responsive portfolio website for software developers Build wit React js
+A smooth and responsive portfolio website for software developers Built with React js
 <br>
 features
+<br>
+* Email sending with emailjs module
+<br>
+* responsive design
+<br>
+<br>
+<br>
+ScreenShots
+<br>
+<br>
 
 
 ![image](https://github.com/pavanb0/portfoliodemo/assets/96296445/65873486-c21c-45dc-b396-fbe94b4c532a)
