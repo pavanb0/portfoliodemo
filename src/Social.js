@@ -11,7 +11,7 @@ const Social = () => {
         <section id="social">
             <div className='custom-card'>
                 <div className="social-links">
-                    <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://linkedin.com/in/bagwepavan/" target="_blank" rel="noopener noreferrer">
                         <img src={linkedin} ></img>
                         
                     </a>
