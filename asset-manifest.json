@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfoliodemo/static/css/main.812d22cd.css",
-    "main.js": "/portfoliodemo/static/js/main.88d05078.js",
-    "static/js/787.aa4c458c.chunk.js": "/portfoliodemo/static/js/787.aa4c458c.chunk.js",
-    "static/media/Hero.jpg": "/portfoliodemo/static/media/Hero.739f61b694a37dd49c53.jpg",
-    "static/media/GoodMorning.jpg": "/portfoliodemo/static/media/GoodMorning.6fbbf0a9131be7de0696.jpg",
-    "static/media/DwPlayer.jpg": "/portfoliodemo/static/media/DwPlayer.7cd2c9d43ab29702af9f.jpg",
-    "static/media/AndroidDevTool.jpg": "/portfoliodemo/static/media/AndroidDevTool.283db3ed9528babfa5a6.jpg",
-    "static/media/QrAttendance.jpg": "/portfoliodemo/static/media/QrAttendance.b818dce5a900b9474a93.jpg",
-    "static/media/Github  logo.jpg": "/portfoliodemo/static/media/Github  logo.976101b510cc211e88ca.jpg",
-    "static/media/OnlinePythonCompiler.jpg": "/portfoliodemo/static/media/OnlinePythonCompiler.7be4124da1267dff207d.jpg",
-    "static/media/MetafortessLogo.jpg": "/portfoliodemo/static/media/MetafortessLogo.76e7de168f0136cefbda.jpg",
-    "index.html": "/portfoliodemo/index.html",
-    "main.812d22cd.css.map": "/portfoliodemo/static/css/main.812d22cd.css.map",
-    "main.88d05078.js.map": "/portfoliodemo/static/js/main.88d05078.js.map",
-    "787.aa4c458c.chunk.js.map": "/portfoliodemo/static/js/787.aa4c458c.chunk.js.map"
+    "main.css": "/static/css/main.812d22cd.css",
+    "main.js": "/static/js/main.74b77a02.js",
+    "static/js/787.aa4c458c.chunk.js": "/static/js/787.aa4c458c.chunk.js",
+    "static/media/Hero.jpg": "/static/media/Hero.739f61b694a37dd49c53.jpg",
+    "static/media/GoodMorning.jpg": "/static/media/GoodMorning.6fbbf0a9131be7de0696.jpg",
+    "static/media/DwPlayer.jpg": "/static/media/DwPlayer.7cd2c9d43ab29702af9f.jpg",
+    "static/media/AndroidDevTool.jpg": "/static/media/AndroidDevTool.283db3ed9528babfa5a6.jpg",
+    "static/media/QrAttendance.jpg": "/static/media/QrAttendance.b818dce5a900b9474a93.jpg",
+    "static/media/Github  logo.jpg": "/static/media/Github  logo.976101b510cc211e88ca.jpg",
+    "static/media/OnlinePythonCompiler.jpg": "/static/media/OnlinePythonCompiler.7be4124da1267dff207d.jpg",
+    "static/media/MetafortessLogo.jpg": "/static/media/MetafortessLogo.76e7de168f0136cefbda.jpg",
+    "index.html": "/index.html",
+    "main.812d22cd.css.map": "/static/css/main.812d22cd.css.map",
+    "main.74b77a02.js.map": "/static/js/main.74b77a02.js.map",
+    "787.aa4c458c.chunk.js.map": "/static/js/787.aa4c458c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.812d22cd.css",
-    "static/js/main.88d05078.js"
+    "static/js/main.74b77a02.js"
   ]
 }
