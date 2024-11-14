@@ -7,6 +7,8 @@ import Education from './Education';
 import Skills from './Skills';
 import Contacts from './Contact';
 import Social from './Social';
+import Experience from './Experience'; 
+
 function App() {
   const scrollToSection = (id) => {
     const element = document.getElementById(id);
@@ -23,6 +25,7 @@ function App() {
      
         <nav>
             <button onClick={() => scrollToSection('projects')}>Projects</button>
+            <button onClick={() => scrollToSection('experience')}>Experience</button>
             <button onClick={() => scrollToSection('education')}>Education</button>
             <button onClick={() => scrollToSection('skills')}>Skills</button>
             <button onClick={() => scrollToSection('contact')}>Contact</button>
@@ -33,6 +36,7 @@ function App() {
       </header>
 
      <AboutMe/>
+     <Experience/>
      <Projects/>
      <Education/>
 

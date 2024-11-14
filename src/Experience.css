@@ -1,0 +1,62 @@
+.custom-card {
+    background-color: #1c232d;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 175, 182, 0.5); 
+    border-radius: 10px; 
+  }
+  
+  .card-content {
+    text-align: left;
+  }
+  
+  .custom-card h2 {
+    color: bisque;
+    margin-bottom: 15px; 
+  }
+  
+  .custom-card p {
+    color: bisque;
+    line-height: 1.6; 
+  }
+  
+  .Experience-item {
+    border-bottom: 1px solid #333; 
+    padding: 15px 0;
+  }
+  
+  .Experience-item:last-child {
+    border-bottom: none;
+  }
+  
+  .Experience-item h3 {
+    color: bisque;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .Experience-item p {
+    color: bisque;
+    margin: 0;
+  }
+  
+  .Experience-item ul {
+    margin-top: 10px;
+    padding-left: 20px; 
+    list-style-type: disc; 
+    color: bisque;
+  }
+  
+  .Experience-item li {
+    margin-bottom: 5px; 
+  }
+  
+  a {
+    color: #00afb6; 
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

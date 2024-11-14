@@ -4,7 +4,7 @@ const Skills = () => {
   const skillsList = [
     "React",
     "JavaScript",
-    "HTML",
+    ".NET Core",
     "CSS",
     "Node.js",
     "Express",
@@ -22,7 +22,7 @@ const Skills = () => {
       <div className="custom-card">
         <div className="skills-card">
         <h2>Skills</h2>
-        <ul>
+        <ul className="skill-ul">
           {skillsList.map((skill, index) => (
             <li key={index}>{skill}</li>
           ))}

@@ -8,7 +8,7 @@ export default function Education() {
         <div className="education-item">
           <h3>Nirmala Memorial Foundation College of Commerce and Science</h3>
           <br></br>
-          <p>Bacheoler of Science in Computer Science, 2024</p>
+          <p>Bacheoler of Science in Computer Science, 2024 </p>
         
         </div>
 
